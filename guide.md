@@ -51,9 +51,11 @@
 |[HMB](https://github.com/DreaM117er/Handwiring-Microboard)|![](pic/FS.png)|![](pic/BS.png)|
 
 
-## （三）外殼檔案
+## （三）定位板及底板
 
-- 外殼務必選用`FR4（玻璃纖維）`或`CF（碳纖維）`等相對韌性及硬度較`高`的材質製作。
+> **Warning**
+>
+> 定位板及底板務必選用`玻璃纖維（FR4）`或`碳纖維（CF）`等相對韌性及硬度較`高`的材質製作。
 
 ### 定位板
 
