@@ -43,12 +43,11 @@ Planck好不好用？這是我在接觸分離式鍵盤之後很多人問我的�
 
 ## 鍵盤結構
 
-
-- 根據PCB分為M（Main）、A（A part）、B（B part）、T（Thumb）4個部件，左右邊合計8張PCB。
-- 左右邊代號分別為：左（L）、右（R）。
-- 鍵盤上下結構分為：Plate（定位板）、A（上層底板）、B（下層底板）。
+- 根據PCB分為`M（Main）`、`A（A part）`、`B（B part）`、`T（Thumb）`4個部件，左右邊合計8張PCB。
+- 左右邊代號分別為：`左（L）`、`右（R）`。
+- 鍵盤上下結構分為：`Plate（定位板）`、`A（上層底板）`、`B（下層底板）`。
 - MCU的部分採用手拉線拓展板安裝（[Handwiring Microboard](https://github.com/DreaM117er/Handwiring-Microboard)）。
-- PCB採全焊接設計，可使用MX、Choc v1、Choc v2、Gateron矮軸等4款不同腳位、不同類型的鍵軸。
+- PCB採全焊接設計，可使用`MX`、`Choc v1`、`Choc v2`、`Gateron矮軸`等4款不同腳位、不同類型的鍵軸。
 - 可依據需求進行配列的變更，Plancklite及Stagger可選擇。
 
 ### PCB視圖
@@ -65,7 +64,7 @@ Planck好不好用？這是我在接觸分離式鍵盤之後很多人問我的�
 
 - [凱華電子規格書](https://www.kailh.net/pages/product-datasheet)（MX、Choc v1、Choc v2）。
 - 佳特隆電子規格書（[Gateron矮軸](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set)）。
-- [KiCAD](https://www.kicad.org/) version 7.05。
+- [KiCAD](https://www.kicad.org/) version `7.05`。
 - [Autodesk Fusion360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription)。
 - [JLCPCB](https://jlcpcb.com/)。
 - [鑫帆宇碳纤维用品加工店](https://shop73091441.taobao.com/?spm=a1z10.1-c-s.0.0.3530f19cYKPwZf)。
