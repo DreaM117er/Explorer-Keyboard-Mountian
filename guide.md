@@ -128,8 +128,13 @@
 
 - 接著將MCU接上電腦進行韌體的燒錄，由於現階段開源分離式鍵盤韌體的燒錄方式主流有2種，這裡我只會簡單的將做法寫下來讓大家參考：
 
-1. `ATMega32U4`：使用`QMK Toolbox`、`Auto-Flash`的方式進行韌體燒錄，韌體檔案為`.hex`。
-2. `RP2040`：同時作用`Reset`及`Bootloader`雙開關進行韌體燒錄，韌體檔案為`.uf2`。
+> **Note**
+>
+> `ATMega32U4`：使用`QMK Toolbox`、`Auto-Flash`的方式進行韌體燒錄，韌體檔案為`.hex`。
+
+> **Note**
+>
+> `RP2040`：同時作用`Reset`及`Bootloader`雙開關進行韌體燒錄，韌體檔案為`.uf2`。
 
 ![](pic/g011.jpg)
 
