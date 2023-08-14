@@ -45,7 +45,7 @@
 | -- | -- | -- |
 |Main|![](pic/RM-F.png)|![](pic/RM-B.png)|
 |A part|![](pic/RA-F.png)|![](pic/RA-B.png)|
-|B part|![](pic/RB-F.png)|![](pic/RB-B.png)|
+|B part|![](pic/RB-F.png)|![](pic/RB_B.png)|
 |Thumb|![](pic/RT-F.png)|![](pic/RT-B.png)|
 
 ### C、中央（手拉線拓展板）
