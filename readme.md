@@ -2,13 +2,11 @@
 
 ### MX鍵軸 
 
-![default-layout-MX]()
-![stagger-layout-MX]()
-
+更新中。
 ### Choc矮軸
 
-![default-layout-choc]()
-![stagger-layout-choc]()
+![default-layout-choc](pic/default-layout-choc.jpg)
+![stagger-layout-choc](pic/stagger-layout-choc.jpg)
 
 ## 開發者前言
 
