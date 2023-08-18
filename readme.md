@@ -46,13 +46,15 @@ Planck好不好用？這是我在接觸分離式鍵盤之後很多人問我的�
 
 ### PCB視圖
 
-![PCB-F](pic/pcb-layout-front.png)
-![PCB-B](pic/pcb-layout-back.png)
+|正面|![PCB-F](pic/pcb-layout-front.png)|
+|--|--|
+|背面|![PCB-B](pic/pcb-layout-back.png)|
 
 ### 3D視圖
 
-![default](pic/fusion360-layout-default.png)
-![stagger](pic/fusion360-layout-stagger.png)
+|正面|![default](pic/fusion360-layout-default.png)|
+|--|--|
+|背面|![stagger](pic/fusion360-layout-stagger.png)|
 
 ## 參考資料及使用工具
 
