@@ -364,6 +364,7 @@
 ![](pic/guide/074.jpg)
 
 - MX版本及LP版本示意：
+
 ![](pic/guide/075.jpg)
 
 > **Note**
