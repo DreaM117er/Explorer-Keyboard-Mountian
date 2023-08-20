@@ -4,6 +4,7 @@
 |![default-layout-mx](pic/default-layout-mx.jpg)|![stagger-layout-mx](pic/stagger-layout-mx.jpg)|
 |--|--|
 |![default-layout-choc](pic/default-layout-choc.jpg)|![stagger-layout-choc](pic/stagger-layout-choc.jpg)|
+|![default-layout-glp](pic/default-layout-glp.jpg)|![stagger-layout-glp](pic/stagger-layout-glp.jpg)|
 ## 開發者前言
 
 Planck好不好用？這是我在接觸分離式鍵盤之後很多人問我的問題，我可以說它相當地好用，是第一次接觸分離式鍵盤的初心者在使用它之後也非常容易上手，且不論這把直列式鍵盤類型是不是分離式。根據Planck入門的好用程度，首先我製作了一把以Planck為雛形的直列式小鍵盤Plancklite，省去了小指及無名指最難接觸到的左下角、右下角的各3顆按鍵，再將鍵盤從中央分開來成左右兩邊、拇指區向下跟主鍵區位移3mm的設計。
