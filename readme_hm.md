@@ -28,7 +28,7 @@ Half-Mountain是在Mountain的基礎上做延伸的分離式鍵盤，詳見以�
 
 ![](pic/hm/01.jpg)
 
-- 接著將Half-Mountain的韌體燒錄進左右手MCU中。（詳見`Release`）
+- 接著將Half-Mountain的韌體燒錄進左右手MCU中。（詳見[`Release`](https://github.com/DreaM117er/Explorer-Keyboard-Mountian/releases)）
 
 ![](pic/hm/02.jpg)
 ![](pic/hm/04.png)
@@ -53,4 +53,4 @@ Half-Mountain是在Mountain的基礎上做延伸的分離式鍵盤，詳見以�
 
 > **Warning**
 >
-> 鍵盤預設為`左側為主`鍵盤，`右側為輔`；有特殊需求請至`Fork/vial-qmk`詳見韌體代碼。
+> 鍵盤預設為`左側為主`鍵盤，`右側為輔`；有特殊需求請至`Fork/vial-qmk`詳見韌體代碼：[Explorerkb](https://github.com/DreaM117er/vial-qmk/tree/vial/keyboards/explorerkb)
