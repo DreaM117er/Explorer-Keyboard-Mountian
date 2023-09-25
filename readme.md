@@ -1,4 +1,4 @@
-# Explorer Keyboard Mountain 探索者2號
+# Explorer Keyboard Mountain 探索者2號（一體式）
  
 
 |![default-layout-mx](pic/default-layout-mx.jpg)|![stagger-layout-mx](pic/stagger-layout-mx.jpg)|
